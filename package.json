@@ -10,6 +10,6 @@
   "author": "Jacob Hein <Jahhein.icld@icloud.com>",
   "license": "ISC",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.3"
   }
 }
